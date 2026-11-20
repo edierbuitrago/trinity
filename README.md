@@ -1,6 +1,10 @@
-# Kit de veeduría — a civic-oversight kit for small, local language models
+# Trinity — a civic-oversight kit for small, local language models
 
 **Status: working prototype (v0.1, November 2026). Draft content, not legally reviewed.**
+
+Trinity is the open, small-model version of a tool Cuestión Pública already uses internally
+(today built on a large proprietary model) and of *Data Pública*, a petition-letter template we
+published in 2023. This repository contains the first working version of it.
 
 A small [MCP](https://modelcontextprotocol.io) server designed so that a *small* language model
 (roughly 4B–14B parameters, running on the citizen's own computer) can help people in Colombia understand how the
