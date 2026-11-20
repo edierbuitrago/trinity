@@ -20,9 +20,10 @@ source of legal facts.
    (constitutional articles, statutes, deadlines) is fixed text written by people. The model
    never generates it.
 3. **Short responses.** Every tool answer fits well inside a small model's context window
-   (the full tool list is ≈600 tokens; a complete petition letter ≈1,000 tokens).
-4. **Helpful errors.** A wrong argument returns the list of valid values, so the model can
-   recover on its own.
+   (a sheet is ≈300 words; the petition tool returns only a file path and a few lines).
+4. **Closed choices with helpful errors.** Topics and request types are enumerated values in the
+   tool schema, so a wrong value is rejected with an error that lists the valid ones and the
+   model can recover on its own.
 5. **Personal data stays on the user's device.** The petition comes back with placeholders
    (`[NOMBRE COMPLETO]`, `[NÚMERO DE CÉDULA]`, …) that the person fills in locally. The server
    neither receives nor stores them.
