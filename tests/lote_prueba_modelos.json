@@ -1,0 +1,17 @@
+[
+  ["p_actas", "Necesito que el Concejo de Medellín me dé las actas de las sesiones de octubre de 2025, ¿me ayudas a pedirlas?", "copia_documentos", null],
+  ["p_cifra", "Quiero saber cuánta plata gastó el Ministerio de Educación en el PAE el año pasado. Escríbeme la petición.", "informacion", null],
+  ["p_consulta", "Quiero preguntarle a la Registraduría si puedo inscribir mi cédula en otro municipio si me mudé hace dos meses. Hazme la carta.", "consulta", null],
+  ["p_reclamo", "Hazme un derecho de petición para la Empresa de Acueducto de Cali: hace un mes no tenemos agua en el barrio y quiero que lo arreglen.", "solicitud_general", null],
+  ["p_datos", "Soy María Gómez, cédula 52.111.222. Redacta una petición al Instituto Nacional de Vías pidiendo el contrato de la vía Bogotá–Girardot, que me la envíen en PDF.", "copia_documentos", null],
+  ["f_tutela", "Mi EPS no me quiere dar un medicamento y me dijeron que ponga una tutela, ¿eso cómo funciona?", null, ["tutela-basica"]],
+  ["f_estructura", "¿Cuál es la diferencia entre la Procuraduría y la Contraloría? Siempre las confundo.", null, ["estructura-del-estado"]],
+  ["f_veeduria", "Quiero formar un grupo de vecinos para hacerle seguimiento a la construcción del colegio de la vereda.", null, ["veeduria-ciudadana"]],
+  ["f_contratos", "¿Cómo averiguo cuánto le pagaron a la empresa que hizo el puente de mi pueblo?", null, ["donde-ver-contratos-publicos"]],
+  ["f_plazo", "Mandé una solicitud a la Alcaldía hace tres semanas y nada. ¿Cuánto tienen para contestarme?", null, ["derecho-de-peticion", "que-hacer-si-no-responden"]],
+  ["f_reserva", "La Gobernación dice que el documento que pedí es confidencial. ¿Pueden negármelo así nomás?", null, ["acceso-informacion-publica"]],
+  ["f_quien", "Se dañó el alumbrado público de mi calle, ¿a qué entidad le reclamo?", null, ["quien-hace-que"]],
+  ["f_vencido", "Ya pasaron los quince días y la Secretaría de Salud no ha contestado mi petición. ¿Qué sigue?", null, ["que-hacer-si-no-responden"]],
+  ["x_laboral", "Me despidieron sin justa causa, ¿cuánto me tienen que pagar de indemnización?", null, ["NINGUNA"]],
+  ["x_renta", "¿Cómo declaro renta este año si soy independiente?", null, ["NINGUNA"]]
+]

@@ -1,0 +1,17 @@
+[
+  ["p_resolucion", "Necesito una copia de la resolución con la que la Alcaldía de Pasto adjudicó el contrato de recolección de basuras. Redáctame la solicitud.", ["copia_documentos"], null],
+  ["p_presupuesto", "Quiero que la Secretaría de Hacienda de Bogotá me diga cuánto presupuesto se asignó a los colegios públicos de Kennedy en 2025. Hazme el derecho de petición.", ["informacion"], null],
+  ["p_norma", "Quiero consultarle al Ministerio de Salud si la norma permite que una EPS cobre copagos en urgencias. Prepárame la carta.", ["consulta"], null],
+  ["p_queja", "Prepara un derecho de petición contra la Policía de Cartagena porque no han atendido mis denuncias por ruido en mi cuadra.", ["solicitud_general"], null],
+  ["p_personal", "Me llamo Luis Torres, cédula 79.555.444, correo luis@mail.com. Quiero pedirle al Ministerio de Transporte los informes de interventoría del peaje de Cartagena, en Excel. Redáctalo.", ["copia_documentos", "informacion"], null],
+  ["f_tutela", "Un juez me dijo que mi caso no era para tutela. ¿Para qué casos sí sirve?", null, ["tutela-basica"]],
+  ["f_estructura", "¿Quién nombra al Fiscal General y a qué rama del poder pertenece?", null, ["estructura-del-estado"]],
+  ["f_veeduria", "¿Qué puede hacer y qué no puede hacer un veedor ciudadano frente a un contrato de la alcaldía?", null, ["veeduria-ciudadana"]],
+  ["f_contratos", "¿En qué página puedo ver los contratos que firmó mi municipio este año?", null, ["donde-ver-contratos-publicos"]],
+  ["f_plazo", "¿Cuántos días hábiles tiene una entidad para contestar una solicitud de copias de documentos?", null, ["derecho-de-peticion"]],
+  ["f_secreta", "¿Qué información del Estado es secreta y cuál tengo derecho a conocer?", null, ["acceso-informacion-publica"]],
+  ["f_quien", "Hay un basurero ilegal al lado del río en mi vereda, ¿quién se encarga?", null, ["quien-hace-que"]],
+  ["f_recurso", "Me negaron la información que pedí por reservada y no estoy de acuerdo, ¿hay algún recurso?", null, ["que-hacer-si-no-responden", "acceso-informacion-publica"]],
+  ["x_arriendo", "Mi arrendador quiere subirme el arriendo 30%, ¿puede hacerlo?", null, ["NINGUNA"]],
+  ["x_pension", "¿A qué edad me puedo pensionar y cuántas semanas necesito?", null, ["NINGUNA"]]
+]

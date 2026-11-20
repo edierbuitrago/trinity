@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kit-veeduria": {
+      "command": "python",
+      "args": ["-m", "kit_veeduria.server"],
+      "env": {
+        "PYTHONPATH": "C:\\RUTA\\A\\kit-veeduria\\src"
+      }
+    }
+  }
+}
